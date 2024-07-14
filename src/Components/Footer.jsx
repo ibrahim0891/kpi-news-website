@@ -72,7 +72,7 @@ const Footer = () => {
                     </div>
                     <div className="w-full flex flex-col justify-center md:justify-end md:w-1/2 px-4 md:mb-0 text-center md:text-right">
                         <p className="text-sm">&copy; 2024 NewsSite. All rights reserved.</p>
-                        <p className="text-sm text-gray-400">Designed by MD Ibrahim Siyam</p>
+                        <p className="text-sm text-gray-400">Designed by MD Rezuan Islam Ridoy </p>
                     </div>
                 </div>
             </div>

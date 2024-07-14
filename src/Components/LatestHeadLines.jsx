@@ -1,4 +1,4 @@
-import React from 'react';
+/* eslint-disable react/prop-types */
 
 const LatestHeadlines = ({ news }) => {
     const staticTags = ["Breaking News", "Trending", "Exclusive"];
